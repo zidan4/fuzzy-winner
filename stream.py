@@ -1,5 +1,5 @@
 import streamlit as st
-import pandas as pd
+import pandas as pd 
 
 st.title("Nairobi Housing Predictor")
 price = st.slider("Select Budget (KSh)", 0, 1000000)
